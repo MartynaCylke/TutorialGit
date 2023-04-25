@@ -9,4 +9,11 @@ p {
   margin-right: 500px;
   column-width: 3cm;
   column-count: 1;
+  text-align: left;
+}
+
+h3 {
+  color: aquamarine;
+  font-style: initial;
+  text-decoration: underline wavy red;
 }
