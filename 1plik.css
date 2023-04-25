@@ -1,0 +1,12 @@
+/* Body*/
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+}
+p {
+  color: brown;
+  margin-right: 500px;
+  column-width: 3cm;
+  column-count: 1;
+}
